@@ -1,0 +1,32 @@
+{
+    "subject":[
+        {
+            "id":1,
+            "name":"Love"
+        },
+        {
+            "id":2,
+            "name":"Children"
+        },
+        {
+            "id":3,
+            "name":"Programming"
+        },
+        {
+            "id":4,
+            "name":"Religious"
+        },
+        {
+            "id":5,
+            "name":"Marriage"
+        },
+        {
+            "id":6,
+            "name":"Music"
+        },
+        {
+            "id":7,
+            "name":"Food"
+        }
+    ]
+}
